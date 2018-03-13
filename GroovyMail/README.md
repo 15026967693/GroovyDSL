@@ -28,7 +28,7 @@ if you are use groovy as script,you should use <span style="color:red">Mail(Obje
 <br>
 so as to use the groovy script variable
 ***
-all the other method can be found in [com.jiayang.GroovyMail.MailResolver](src/main/groovy/com/jiayang/GroovyMail/MailResolver),this class
+all the other method can be found in [com.jiayang.GroovyMail.MailResolver](src/main/groovy/com/jiayang/GroovyMail/MailResolver.groovy),this class
 define all the method you can use in sendMail's Closure
 ***
 pay attention,you can use send without any params whether you have called ***username method***
